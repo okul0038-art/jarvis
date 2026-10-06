@@ -9,7 +9,13 @@
   • Sesli veya yazılı her soruya akıllı yanıt verir
   • Türkçe ve İngilizce konuşabilir
   • Ekranı okuyup analiz edebilir (ekran görüntüsü alarak)
-
+kullanıcının istediği tüm komutları yerine getirir ve similasyönler yapabilir elle takip yapabilir elimizle yöneteb ilelim ama kameradan
+yazıcı ve televizyona erişebilir sonra kullanıcı ona bir numara veri şu kelimeleri yapay zeka sesinde söyle derse olur ama benim yerime konuş derse engeller
+laptopu her şekilde yönetebilir 
+laptopta yapabildiklerini televiazyondada yapabilsin bazı şeyleri ama
+ana temayı kullanıcı istediğinde değiştirebilsin yapay zeka çok zeki olsun
+herşeye yanıt verebilsin telefondanda laptopu kontol edebilsin yan tarafta kamera olsun saat olsun yapay zekanın sesi olsun tama değiştirme tuşu olsun
+blututdan şu cihaza bağlan dediğimde yapsın kullanıcının her komutunu yerine getirsin bide jarvis dediğimde ana ekrandayken birden tony starkın filimindeki gibi labaratuvara dönüşsün arka plan uygulamalarını kapatsın ama ben iki kez alkış yaptığımda labarutuvar moduna geçsin
 ──────────────────────────────────────────
   TAKVİM & HATIRLATICILAR
 ──────────────────────────────────────────
@@ -37,7 +43,7 @@
   • WhatsApp Desktop veya Web üzerinden mesaj gönderir
     "X'e mesaj at: ..."
   • Sık kullanılan kişileri kaydedebilir (telefon rehberi)
-
+şu kişiyi ara ve şu kelimeleri kullan dersem yapabilsin ama benim yerime konuş dediğimde engellesin
 ──────────────────────────────────────────
   TARAYICI & İNTERNET
 ──────────────────────────────────────────
@@ -57,7 +63,7 @@
     "Spotify'ı aç", "VS Code'u aç", "Finder'ı aç"
   • Safari, Chrome, Firefox, Notion, Slack,
     Discord, Zoom, Telegram ve daha fazlası
-
+tüm uygulamaları oyunları açabilsin
 ──────────────────────────────────────────
   SİSTEM BİLGİSİ
 ──────────────────────────────────────────
@@ -65,7 +71,7 @@
   • Pil durumu, CPU, RAM, Disk kullanımı
     "Pil durumu nedir?", "RAM ne kadar dolu?"
   • Saat ve tarih bilgisi
-
+mail konrolü ve özeti ve tüm günün ne olduğuna dair tüm özet
 ──────────────────────────────────────────
   SAĞLIK (iPhone gerektirir) - !!!! Şimdilik Kullanım Dışı
 ──────────────────────────────────────────
